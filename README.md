@@ -1,3 +1,2 @@
 # Active-Forest-Fire-Detection-using-GK-2A
-Active forest fire detection is crucial for the people, air quality, ecological impact, environmental impact and property safety etc. This repository contains code that was made for a group project in UNIST for the course UEE354 Disaster Monitoring Using AI.
-Data preprocessing for 2D CNN and Feature selection was done by Sohel. Random forest model was done by Sejeong, and final feature selection was done by Da-hee.
+Active forest fire detection is crucial for the people, air quality, ecological impact, environmental impact and property safety etc. This repository contains code that was made for a group project in UNIST for the course UEE354 Disaster Monitoring Using AI. Data preprocessing for 2D CNN and Feature selection was done by Sohel. Random forest model was done by Sejeong, and final feature selection was done by Da-hee.
